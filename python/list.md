@@ -11,5 +11,5 @@ var_list_num = [1, 2, 3]
 var_list_str = ["Creating", "a", "variable", "to", "hold", "list", "of", "words"]
 
 # Creating a python variable to hold values of different data types
-var_list_mix = [1, "a", 2.0, (3, "b)]
+var_list_mix = [1, "a", 2.0, (3, "b")]
 ```
